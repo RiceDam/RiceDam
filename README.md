@@ -1,6 +1,6 @@
 ### Hello, my name is Eric Dam. I am a full-stack developer
 
-About me
+### About me
 - 💻 4 years of software development in Java
 - 🎓 Graduated from British Columbia Institute of Technology's Computer Systems Technology (CST) program
 - 🤓 Specialty in Information Systems, built web applications using Java Enterprise Edition
