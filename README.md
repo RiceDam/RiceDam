@@ -1,7 +1,7 @@
 # Hello, my name is Eric Dam. I am a developer who likes problem-solving and eating rice 👋
 
 ## About me
-- 🔎 Searching for a junior software developer/full-stack developer role
+- 💼 Currently working at Harris Computer (ServiceLink)
 - 💻 4 years of software development in Java
 - 🎓 Graduated from British Columbia Institute of Technology's Computer Systems Technology (CST) program
 - 🤓 Specialty in Information Systems, built web applications using Java Enterprise Edition
