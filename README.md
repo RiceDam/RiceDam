@@ -2,7 +2,7 @@
 
 ## About me
 - 💼 Currently working at Harris Computer (ServiceLink)
-- 💻 4 years of software development in Java
+- 💻 2 years of software development in Java
 - 🎓 Graduated from British Columbia Institute of Technology's Computer Systems Technology (CST) program
 - 🤓 Specialty in Information Systems, built web applications using Java Enterprise Edition
 - 🐱‍💻 Skilled in web development technologies such as JavaScript, React, Angular, HTML/CSS
